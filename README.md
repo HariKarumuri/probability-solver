@@ -38,7 +38,7 @@ Compute the coefficient of correlation and the equation of the lines of regressi
 ![ss3](https://raw.githubusercontent.com/HariKarumuri/probability-solver/main/images%20for%20readme%20file/Screenshot%20(22).png)
 
 * Now enter elements of Y 
-![ss4](https://raw.githubusercontent.com/HariKarumuri/probability-solver/main/images%20for%20readme%20file/Screenshot%20(23).png)
+* ![ss4](https://raw.githubusercontent.com/HariKarumuri/probability-solver/main/images%20for%20readme%20file/Screenshot%20(23).png)
 
 * now we will find the answer below
 
