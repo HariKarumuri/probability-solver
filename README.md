@@ -2,8 +2,11 @@
 # C-program code of Statistical methods and Probability 
 
 In this code you will find
-* Coefficient of Correlation
+* Coefficient of Correlation(R)
 * Equation of regression lines
+* Z (x-y)
+* Mean of X,Y,Z
+* Standard Deviation of X,Y,Z
 
 
 
