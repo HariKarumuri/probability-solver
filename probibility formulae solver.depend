@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633428897 source:c:\users\user\desktop\html,css,c\c\probibility formulae solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
